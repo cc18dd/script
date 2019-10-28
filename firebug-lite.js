@@ -6,6 +6,8 @@
  *      Copyright (c) 2007, Parakey Inc.
  *      Released under BSD license.
  *      More information: http://getfirebug.com/firebuglite
+ * https://cdnjs.cloudflare.com/ajax/libs/firebug-lite/1.4.0/firebug-lite.js
+ * https://cdnjs.com/libraries/firebug-lite
  *  
  **************************************************************/
 /*
